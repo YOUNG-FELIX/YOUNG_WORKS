@@ -1,4 +1,4 @@
-# YOUNG_portfolio
+# YOUNG_WORKS
 
 个人学习实践与自用部分 AI Agent 技能合集。
 
@@ -15,7 +15,7 @@
 ## 快速链接
 
 - 技能专区说明与索引：[`agent-skills/README.md`](./agent-skills/README.md)
-- GitHub 主页：[@felix-young-A](https://github.com/felix-young-A)
+- GitHub 主页：[@felix-young-A](https://github.com/FELIX-YOUNG)
 
 ## 许可证
 
