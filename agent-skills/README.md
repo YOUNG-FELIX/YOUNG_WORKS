@@ -64,4 +64,4 @@ agent-skills/
 
 ---
 
-维护者：[@felix-young-A](https://github.com/felix-young-A)
+维护者：[@YOUNG-FELIX](https://github.com/YOUNG-FELIX) · 返回 [仓库主页](../README.md)
